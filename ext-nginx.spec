@@ -38,11 +38,11 @@ META-package for install and configure NGINX.
 - UPD: Move to GitHub.
 - UPD: License.
 
-* Tue Jul 02 2019 Package Store <pkgstore@pm.me> - 1.0.0-102
+* Tue Jul 02 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-102
 - Update SPEC-file.
 
-* Sat Mar 30 2019 Package Store <pkgstore@pm.me> - 1.0.0-101
+* Sat Mar 30 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-101
 - New version: 1.0.0-101.
 
-* Wed Jan 02 2019 Package Store <pkgstore@pm.me> - 1.0.0-100
+* Wed Jan 02 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-100
 - Initial build.
